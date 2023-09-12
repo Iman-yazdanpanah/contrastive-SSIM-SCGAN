@@ -92,7 +92,7 @@ python gaussian_parzen_window.py --data_dir DATA_DIR/fashion-mnist --gen_data_pa
 ## CIFAR10
 
 
-```
+
 
 ### Train on CIFAR10
 
