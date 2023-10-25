@@ -4,7 +4,7 @@ and Learning a Better Disentangled Representation"
 [Link to Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rzVfqDwAAAAJ&citation_for_view=rzVfqDwAAAAJ:9yKSN-GCB0IC)
 
 ## ATTENTION
-This code requires TensorFlow>=1.5 which is outdated and you probably can't implement our work. PyTorch implementation is available at [Here](https://github.com/Iman-yazdanpanah/PyTorch-SSIM-SCGAN/tree/main)
+This code requires TensorFlow>=1.5 which is outdated and you probably can't implement our work. PyTorch implementation is available at this [Link](https://github.com/Iman-yazdanpanah/PyTorch-SSIM-SCGAN/tree/main).
 
 
 ## Prerequisites
